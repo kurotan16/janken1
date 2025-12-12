@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 // 定数定義
 const BOARD_SIZE = 9;
