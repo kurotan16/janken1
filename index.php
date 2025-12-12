@@ -55,7 +55,7 @@
             <a href="./janken.php">じゃんけんゲーム (✊✋✌️)</a>
         </li>
         <li>
-            <a href=".gomoku.php">五目並べ</a>
+            <a href="./gomoku.php">五目並べ</a>
         </li>
         </ul>
 </div>
